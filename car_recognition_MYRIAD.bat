@@ -1,0 +1,1 @@
+python.exe app.py -i "images/blue-car.jpg" -d "MYRIAD" -t "CAR_META" -m "D:\Courses\Intel_OpenVino\models\vehicle-attributes-recognition-barrier-0039\INT8\vehicle-attributes-recognition-barrier-0039.xml" -c "C:\Program Files (x86)\IntelSWTools\openvino_2019.3.379\inference_engine\bin\intel64\Release\cpu_extension_avx2.dll"

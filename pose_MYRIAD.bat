@@ -1,0 +1,1 @@
+python.exe app.py -i "images/sitting-on-car.jpg" -d "MYRIAD" -t "POSE" -m "D:\Courses\Intel_OpenVino\models\human-pose-estimation-0001\FP32\human-pose-estimation-0001.xml" -c "C:\Program Files (x86)\IntelSWTools\openvino_2019.3.379\inference_engine\bin\intel64\Release\cpu_extension_avx2.dll"

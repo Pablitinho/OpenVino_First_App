@@ -1,0 +1,1 @@
+python.exe app.py -i "images/sign.jpg" -d "CPU" -t "TEXT" -m "D:\Courses\Intel_OpenVino\models\text-detection-0004\FP16\text-detection-0004.xml" -c "C:\Program Files (x86)\IntelSWTools\openvino_2019.3.379\inference_engine\bin\intel64\Release\cpu_extension_avx2.dll"
